@@ -47,9 +47,6 @@ JavaScript (ES6) – game logic
 
 Installation & Setup
 
-Clone this repository:
-git clone https://IndlaAnupriya.github.io/Projects/
-
 Navigate into the project folder:
 Open index.html in your browser ✅
 
